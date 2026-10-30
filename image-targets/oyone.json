@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 217,
+    "left": 0,
+    "width": 957,
+    "height": 1276,
+    "isRotated": false,
+    "originalWidth": 957,
+    "originalHeight": 1711
+  },
+  "imagePath": "image-targets/oyone_luminance.jpg",
+  "metadata": null,
+  "name": "oyone",
+  "resources": {
+    "originalImage": "oyone_original.jpg",
+    "croppedImage": "oyone_cropped.jpg",
+    "thumbnailImage": "oyone_thumbnail.jpg",
+    "luminanceImage": "oyone_luminance.jpg"
+  },
+  "created": 1793341355218,
+  "updated": 1793341355218
+}
